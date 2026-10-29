@@ -14,12 +14,6 @@ O site apresenta informações sobre a história da Meta, seus principais produt
 - Exemplos de aplicações, benefícios e desafios.
 - Simulador interativo Bugstagram, que demonstra como os interesses e as interações podem influenciar um feed de publicações.
 
-## Tecnologias utilizadas
-
-- HTML
-- CSS
-- JavaScript
-
 ## Como executar
 
 1. Baixe ou clone este repositório.
